@@ -5,7 +5,7 @@
 3. [ディレクトリ構成](#ディレクトリ構成)
 4. [開発環境構築](#開発環境構築)
 
-## monorepo-sample
+## frontend
 
 content
 
